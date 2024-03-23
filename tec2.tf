@@ -8,4 +8,5 @@ resource "aws_instance" "ec2_instance" {
   ami           = "ami-0fc5d935ebf8bc3bc"
   instance_type = "t2.micro"
   key_name      = "tomi"
-}
+
+krishnama raju,add git and docker and sonarqube}
